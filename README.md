@@ -61,9 +61,9 @@ Below is a breakdown of top commercial customer service agent workspace software
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted and open-source customer service platforms and agent workspaces, ordered by GitHub star count (descending) 🌟. Each star badge links directly to that repository's stargazers.
+Curated self-hosted and open-source customer service platforms and agent workspaces, ordered by GitHub Stars_Count (descending) 🌟. Each Stars_Badge links directly to that repository's stargazers.
 
-| Project 🛠️ | Stars ⭐ | Primary Stack 💻 | Description 📖 |
+| Project 🛠️ | GitHub_Stars ⭐ | Primary Stack 💻 | Description 📖 |
 |:---|:---:|:---|:---|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js | Real-time omnichannel customer support platform and agent workspace. Connects website live chat, email, WhatsApp, Telegram, Facebook, and Instagram into a unified team inbox with canned responses, private notes, and auto-assignment. |
 | **[Papercups](https://github.com/papercups-io/papercups)** | [![Stars](https://img.shields.io/github/stars/papercups-io/papercups)](https://github.com/papercups-io/papercups/stargazers) | Elixir, Phoenix, React | Open-source live customer messaging workspace with embeddable chat widgets, Slack two-way sync, and developer-friendly REST/GraphQL APIs. |
@@ -92,7 +92,7 @@ When evaluating commercial SaaS platforms versus self-hosted open-source softwar
 Contributions are warmly welcome! 🙌 To suggest or update a platform:
 1. 🍴 Fork this repository.
 2. 📝 Update `README.md` following the existing tabular structure.
-3. 🔍 Include verified pricing, free tier/trial limits, or star badges.
+3. 🔍 Include verified pricing, free tier/trial limits, or Stars_Badges.
 4. 🚀 Submit a Pull Request with a clear description and authoritative reference link.
 
 ---
@@ -118,7 +118,7 @@ Thank you so much for exploring and using this repository! 🙏 If you find this
 
 - 📌 This list is community-curated for informational and architectural comparison purposes.
 - 💡 Product pricing and free trial terms reflect public vendor disclosures as of 2026 and are subject to change.
-- ⚡ Star counts and metrics are updated periodically via the GitHub API.
+- ⚡ Stars_Counts and metrics are updated periodically via the GitHub API.
 
 ---
 
