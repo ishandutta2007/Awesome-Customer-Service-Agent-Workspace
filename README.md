@@ -1,6 +1,6 @@
 # Awesome-Customer-Service-Agent-Workspace
 
-# Top Customer Service Agent Workspace Ecosystem
+## Top Customer Service Agent Workspace Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Unified Agent Inboxes, Omnichannel Ticketing & AI-Assisted Resolution*  
